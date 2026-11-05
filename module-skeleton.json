@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-reporting-nextjs",
+  "capabilityKey": "planned:ecommerce:reporting",
+  "presentation": "next-react",
+  "package": "@liberusoftware/module-ecommerce-reporting-nextjs",
+  "foundation": "module-boilerplate-nextjs",
+  "foundationCommit": "f36c3c383b38a8ebedb343dffa24cf64bec1817b",
+  "canonicalPlan": "projects/ecommerce/nextjs/reporting.md",
+  "presentationPlan": "projects/ecommerce/nextjs/reporting.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
